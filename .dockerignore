@@ -1,0 +1,7 @@
+# .dockerignore
+.venv
+.git
+.gitignore
+docker-compose.yml
+Dockerfile
+**/migrations
